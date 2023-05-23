@@ -1,3 +1,3 @@
-# Computer science student, with grate focus on Embedded Engineering, Data Science
+# Computer science student, with grate focus on Embedded Engineering and Foundation AI Models
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Athanasioschourlias)](https://github.com/anuraghazra/github-readme-stats)
